@@ -36,29 +36,11 @@
 
 <hr/>
 
-## 📊 Mis Estadísticas en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados"/>
-</div>
 <p align="center">
   <i>"El mundo no es perfecto. Pero está ahí para nosotros, haciendo lo mejor que puede... y eso es lo que lo hace tan increíblemente hermoso." - Roy Mustang (Fullmetal Alchemist)</i>
 </p>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://i.imgur.com/qplBvQ5.gif" width="250px" alt="Naruto formando un Rasengan"/>
-      <br/><sub><b>Perseverancia y Esfuerzo</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://i.imgur.com/1GZ8m2m.gif" width="250px" alt="L de Death Note pensando"/>
-      <br/><sub><b>Estrategia y Lógica</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://i.imgur.com/uStiV6h.gif" width="250px" alt="Motoko Kusanagi de Ghost in the Shell"/>
-      <br/><sub><b>Fusión con la Tecnología</b></sub>
-    </td>
   </tr>
 </table>
 
