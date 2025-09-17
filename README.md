@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-banner-image.gif" alt="Banner Personalizado" width="100%"/>
+  <img src="https://i.imgur.com/SFrS3tA.gif" alt="Banner de Programación y Tecnología" width="100%"/>
   <h1>Hola, soy [Tu Nombre] 👋</h1>
   <h3>Ingeniero de Sistemas en formación | Apasionado por el Desarrollo y la Ciberseguridad ⚡</h3>
 </div>
@@ -44,23 +44,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados"/>
 </div>
 
+<hr/>
 
+## ☀️ Inspiración Anime ☀️
 <p align="center">
-  <em>"Aquellos que rompen las reglas son escoria, pero aquellos que abandonan a sus amigos son peor que escoria." - Kakashi Hatake</em>
+  <i>"El mundo no es perfecto. Pero está ahí para nosotros, haciendo lo mejor que puede... y eso es lo que lo hace tan increíblemente hermoso." - Roy Mustang (Fullmetal Alchemist)</i>
 </p>
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/your-anime-image1.gif" width="250px" alt="Inspiración 1"/>
-      <br/><sub><b>Perseverancia</b></sub>
+      <img src="https://i.imgur.com/qplBvQ5.gif" width="250px" alt="Naruto formando un Rasengan"/>
+      <br/><sub><b>Perseverancia y Esfuerzo</b></sub>
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/your-anime-image2.gif" width="250px" alt="Inspiración 2"/>
-      <br/><sub><b>Estrategia</b></sub>
+      <img src="https://i.imgur.com/1GZ8m2m.gif" width="250px" alt="L de Death Note pensando"/>
+      <br/><sub><b>Estrategia y Lógica</b></sub>
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/your-anime-image3.jpg" width="250px" alt="Inspiración 3"/>
-      <br/><sub><b>Lealtad</b></sub>
+      <img src="https://i.imgur.com/uStiV6h.gif" width="250px" alt="Motoko Kusanagi de Ghost in the Shell"/>
+      <br/><sub><b>Fusión con la Tecnología</b></sub>
     </td>
   </tr>
 </table>
