@@ -48,6 +48,10 @@ Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/banner.png" alt="Banner anime tech" style="max-width:1200px; width:100%; height:auto; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.6);" />
+</p>
+
+<p align="center">
   <small>Apasionado por la automatización y la construcción de soluciones empresariales. 🚀</small>
 </p>
 
