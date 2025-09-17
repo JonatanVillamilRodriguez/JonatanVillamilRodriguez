@@ -1,57 +1,46 @@
-<!-- Banner con animación -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+Hey!+Soy+Jonatan+Villamil;👨‍💻+Ingenero+de+Sistemas;⚡+Apasionado+por+el+desarrollo;⚡+y+la+ciberseguridad;🔥+Let's+Code+the+Future!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=⚡+Ingeniero+de+Sistemas+en+Formación;🔥+Apasionado+por+el+Desarrollo+%26+la+Ciberseguridad;👾+Fan+del+Anime+y+la+Tecnología;🚀+Construyendo+mi+camino+como+Developer" />
 </p>
 
 ---
 
 <!-- Presentación -->
-<h2 align="center">👾 Desarrollador en formación | Futuro arquitecto de ciberseguridad 🚀</h2>
+<h2 align="center">👋 Bienvenido a mi mundo digital 🌐</h2>
 
 <p align="center">
-Soy <b>Jonatan Villamil</b>, Ingenero de Sistemas 💻.  
-Me encanta crear soluciones.  
-Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡.
+Soy <b>Ingeniero de Sistemas</b> 💻 en proceso de crecimiento constante.  
+Me apasiona el desarrollo de software, la automatización y la <b>ciberseguridad</b> ⚡.  
+Además, me inspiran universos como <b>Dragon Ball, Naruto, One Piece y Shingeki no Kyojin</b> 👾.  
 </p>
 
 ---
 
-<!-- Skills animadas -->
-<h3 align="center">🚀 Tecnologías que me mueven 🚀</h3>
+<!-- Personajes favoritos -->
+<h3 align="center">🌟 Inspirado por estos héroes 🌟</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,bootstrap,mysql,postgres,visualstudio,vscode" />
+  <img src="https://i.ibb.co/3CyKqYm/goku.png" width="100" /> 
+  <img src="https://i.ibb.co/tD9SnhD/naruto.png" width="100" />
+  <img src="https://i.ibb.co/LkK1Xdk/luffy.png" width="100" />
+  <img src="https://i.ibb.co/5BMg1wH/levi.png" width="100" />
 </p>
 
 ---
 
-
+<!-- Skills -->
+<h3 align="center">🚀 Tecnologías que utilizo 🚀</h3>
 <p align="center">
-  <small>Apasionado por la automatización y la construcción de soluciones empresariales. 🚀</small>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,bootstrap,html,css,js,ts,react,python,mysql,postgres,visualstudio,vscode" />
 </p>
-<table width="100%">
-  <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/banner.png" alt="Banner anime tech" style="height:120px; border-radius:8px; box-shadow:0 6px 20px rgba(0,0,0,0.6);" />
-    </td>
-    <td width="50%" align="center" style="vertical-align:middle;">
-      <div>
-        <strong style="font-size:18px">👋 Hola — Jonatan Villamil</strong>
-        <div style="margin-top:6px">
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        </div>
-        <div style="color:#9aa0a6; margin-top:6px; font-size:12px;">
-          Apasionado por la automatización · C# · .NET · SQL Server
-        </div>
-      </div>
-    </td>
-    <td width="20%" align="right" style="vertical-align:middle;">
-      <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="efecto" style="height:100px; border-radius:8px;" />
-    </td>
-  </tr>
-</table>
+
+---
+
+<!-- Frase motivacional -->
+<p align="center">
+  <i>“El código es como el chakra, fluye dentro de mí y me da poder para crear ⚡”</i>
+</p>
+
+
 
 
 
