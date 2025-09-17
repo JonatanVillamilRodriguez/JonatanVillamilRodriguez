@@ -23,22 +23,13 @@ Siempre busco aprender y dejar un estilo único en cada proyecto 🚀.
 ---
 
 <!-- Anime vibes -->
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>🌟 Inspiración Anime 🌟</title>
-</head>
-<body>
-  <h3 align="center">🌟 Inspiración Anime 🌟</h3>
-  <p align="center">
-    <img src="[https://media.tenor.com/O7lVvFMkPzkAAAAd/goku-dragon-ball.gif](https://elcomercio.pe/resizer/v2/6Y2EDIISGFGVFANEVDCR5LCG34.jpg?auth=f58b5c647a09717054d85bb8b9a6bc624bfcb14fe9c60b5246730ea6a513e2b0&width=1198&height=690&quality=75&smart=true)" width="120"/>
-    <img src="https://media.tenor.com/FdLP-5G0xNMAAAAC/naruto-rasengan.gif" width="120" />
-    <img src="https://media.tenor.com/7Yay0VXyX8YAAAAd/one-piece-luffy.gif" width="120" />
-    <img src="https://media.tenor.com/9gYMLnMi5noAAAAC/levi-attack-on-titan.gif" width="120" />
-  </p>
-</body>
-</html>
+<h3 align="center">🌟 Inspiración Anime 🌟</h3>
+<p align="center">
+  <img src="[https://media.tenor.com/O7lVvFMkPzkAAAAd/goku-dragon-ball.gif](https://elcomercio.pe/resizer/v2/6Y2EDIISGFGVFANEVDCR5LCG34.jpg?auth=f58b5c647a09717054d85bb8b9a6bc624bfcb14fe9c60b5246730ea6a513e2b0&width=1198&height=690&quality=75&smart=true)" width="120" />
+  <img src="https://media.tenor.com/FdLP-5G0xNMAAAAC/naruto-rasengan.gif" width="120" />
+  <img src="https://media.tenor.com/7Yay0VXyX8YAAAAd/one-piece-luffy.gif" width="120" />
+  <img src="https://media.tenor.com/9gYMLnMi5noAAAAC/levi-attack-on-titan.gif" width="120" />
+</p>
 
 ---
 
@@ -49,13 +40,6 @@ Siempre busco aprender y dejar un estilo único en cada proyecto 🚀.
 </p>
 
 ---
-
-<!-- Stats con animación -->
-<h3 align="center">📊 Mis Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonatanVillamil&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanVillamil&layout=compact&theme=radical" />
-</p>
 
 ---
 
