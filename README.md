@@ -23,13 +23,22 @@ Siempre busco aprender y dejar un estilo único en cada proyecto 🚀.
 ---
 
 <!-- Anime vibes -->
-<h3 align="center">🌟 Inspiración Anime 🌟</h3>
-<p align="center">
-  <img src="https://media.tenor.com/O7lVvFMkPzkAAAAd/goku-dragon-ball.gif" width="120" />
-  <img src="https://media.tenor.com/FdLP-5G0xNMAAAAC/naruto-rasengan.gif" width="120" />
-  <img src="https://media.tenor.com/7Yay0VXyX8YAAAAd/one-piece-luffy.gif" width="120" />
-  <img src="https://media.tenor.com/9gYMLnMi5noAAAAC/levi-attack-on-titan.gif" width="120" />
-</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>🌟 Inspiración Anime 🌟</title>
+</head>
+<body>
+  <h3 align="center">🌟 Inspiración Anime 🌟</h3>
+  <p align="center">
+    <img src="https://media.tenor.com/O7lVvFMkPzkAAAAd/goku-dragon-ball.gif" width="120" />
+    <img src="https://media.tenor.com/FdLP-5G0xNMAAAAC/naruto-rasengan.gif" width="120" />
+    <img src="https://media.tenor.com/7Yay0VXyX8YAAAAd/one-piece-luffy.gif" width="120" />
+    <img src="https://media.tenor.com/9gYMLnMi5noAAAAC/levi-attack-on-titan.gif" width="120" />
+  </p>
+</body>
+</html>
 
 ---
 
