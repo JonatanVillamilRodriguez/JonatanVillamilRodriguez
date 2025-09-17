@@ -28,15 +28,11 @@ Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡
 <p align="center">
   <small>Apasionado por la automatización y la construcción de soluciones empresariales. 🚀</small>
 </p>
-
 <table width="100%">
   <tr>
-    <!-- Columna izquierda: banner pequeño -->
     <td width="30%" align="left">
-      <img src="./assets/banner.png" alt="Banner anime tech" style="height:120px; border-radius:8px; box-shadow:0 6px 20px rgba(0,0,0,0.6);" />
+      <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/banner.png" alt="Banner anime tech" style="height:120px; border-radius:8px; box-shadow:0 6px 20px rgba(0,0,0,0.6);" />
     </td>
-
-    <!-- Columna central: texto + badges -->
     <td width="50%" align="center" style="vertical-align:middle;">
       <div>
         <strong style="font-size:18px">👋 Hola — Jonatan Villamil</strong>
@@ -51,13 +47,12 @@ Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡
         </div>
       </div>
     </td>
-
-    <!-- Columna derecha: GIF/efecto pequeño -->
     <td width="20%" align="right" style="vertical-align:middle;">
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="efecto" style="height:100px; border-radius:8px;" />
     </td>
   </tr>
 </table>
+
 
 
 
