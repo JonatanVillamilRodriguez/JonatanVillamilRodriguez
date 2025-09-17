@@ -36,18 +36,6 @@ Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanVillamilRodriguez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-<!-- Animación Futurista -->
-<h3 align="center">⚡ Un toque de estilo ⚡</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
----
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
