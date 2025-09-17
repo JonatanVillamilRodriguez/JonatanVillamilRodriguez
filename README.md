@@ -6,7 +6,7 @@
 ---
 
 <!-- Presentación -->
-<h2 align="center">👾 Desarrollador en formación | Futuro arquitecto de software 🚀</h2>
+<h2 align="center">👾 Desarrollador en formación | Futuro arquitecto de ciberseguridad 🚀</h2>
 
 <p align="center">
 Soy <b>Jonatan Villamil</b>, estudiante de Ingeniería de Sistemas 💻.  
