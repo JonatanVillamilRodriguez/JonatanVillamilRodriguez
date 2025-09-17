@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/SFrS3tA.gif" alt="Banner de Programación y Tecnología](https://t3.ftcdn.net/jpg/04/49/19/08/360_F_449190831_i2whvIQdDIGtuIVWT6QfenWwmRApVJ5l.jpg)" width="100%"/>
+  <img src="https://i.imgur.com/SFrS3tA.gif" alt="Banner de Programación y Tecnología](https://t3.ftcdn.net/jpg/04/49/19/08/360_F_449190831_i2whvIQdDIGtuIVWT6QfenWwmRApVJ5l.jpg)" width="100%"/>
   <h1>Hola, soy [Tu Nombre] 👋</h1>
   <h3>Ingeniero de Sistemas en formación | Apasionado por el Desarrollo y la Ciberseguridad ⚡</h3>
 </div>
