@@ -42,10 +42,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados"/>
 </div>
-
-<hr/>
-
-## ☀️ Inspiración Anime ☀️
 <p align="center">
   <i>"El mundo no es perfecto. Pero está ahí para nosotros, haciendo lo mejor que puede... y eso es lo que lo hace tan increíblemente hermoso." - Roy Mustang (Fullmetal Alchemist)</i>
 </p>
