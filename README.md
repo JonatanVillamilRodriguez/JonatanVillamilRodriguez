@@ -1,33 +1,56 @@
-<!-- Banner Anime -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://i.ibb.co/tPh5XKf/banner-anime.jpg" width="100%" />
+  <img src="https://media.tenor.com/fn4l0uL4MT4AAAAC/naruto-anime.gif" width="100%" />
 </p>
 
 ---
 
-<!-- Banner animado con texto -->
+<!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=⚡+Ingeniero+de+Sistemas+en+Formación;🔥+Apasionado+por+el+Desarrollo+%26+la+Ciberseguridad;👾+Fan+del+Anime+y+la+Tecnología;🚀+Construyendo+mi+camino+como+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=850&lines=🚀+Hey!+Soy+Jonatan+Villamil;👨‍💻+Ingeniero+de+Sistemas;⚡+Apasionado+por+el+Desarrollo+y+la+Ciberseguridad;🔥+Fan+del+Anime+y+la+Tecnología" />
 </p>
 
 ---
 
-<!-- Presentación -->
-<h2 align="center">👋 Bienvenido a mi mundo digital 🌐</h2>
-
+<!-- Sobre mí -->
+<h2 align="center">👾 Sobre mí 👾</h2>
 <p align="center">
-Soy <b>Ingeniero de Sistemas</b> 💻 en proceso de crecimiento constante.  
-Me apasiona el desarrollo de software, la automatización y la <b>ciberseguridad</b> ⚡.  
-Además, me inspiran universos como <b>Dragon Ball, Naruto, One Piece y Shingeki no Kyojin</b> 👾.  
+Soy <b>Ingeniero de Sistemas</b> en formación 💻.  
+Me apasiona el desarrollo de software, la ciberseguridad y la automatización ⚡.  
+Siempre busco aprender y dejar un estilo único en cada proyecto 🚀.  
 </p>
 
 ---
 
-<!-- Personajes favoritos -->
-<h3 align="center">🌟 Inspirado por estos héroes 🌟</h3>
+<!-- Anime vibes -->
+<h3 align="center">🌟 Inspiración Anime 🌟</h3>
 <p align="center">
-  <img src="https://i.ibb.co/3CyKqYm/goku.png" width="120" /> 
-  <img src="https://i.ibb.co/tD9SnhD/naruto.png" width="120" />
-  <img src="https://i.ibb.co/LkK1Xdk/luffy.png" width="120" />
-  <img src="https://i.ibb.co/5BMg1wH/levi.png" width="120" />
+  <img src="https://media.tenor.com/O7lVvFMkPzkAAAAd/goku-dragon-ball.gif" width="120" />
+  <img src="https://media.tenor.com/FdLP-5G0xNMAAAAC/naruto-rasengan.gif" width="120" />
+  <img src="https://media.tenor.com/7Yay0VXyX8YAAAAd/one-piece-luffy.gif" width="120" />
+  <img src="https://media.tenor.com/9gYMLnMi5noAAAAC/levi-attack-on-titan.gif" width="120" />
+</p>
+
+---
+
+<!-- Skills animadas -->
+<h3 align="center">🚀 Tecnologías que me mueven 🚀</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,bootstrap,html,css,js,ts,react,python,mysql,postgres,visualstudio,vscode" />
+</p>
+
+---
+
+<!-- Stats con animación -->
+<h3 align="center">📊 Mis Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonatanVillamil&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanVillamil&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- Frase motivacional -->
+<p align="center">
+  <i>“El código es mi jutsu, y el futuro mi campo de batalla ⚡👾”</i>
 </p>
