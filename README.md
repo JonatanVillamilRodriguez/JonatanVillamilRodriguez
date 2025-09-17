@@ -9,8 +9,8 @@
 <h2 align="center">👾 Desarrollador en formación | Futuro arquitecto de ciberseguridad 🚀</h2>
 
 <p align="center">
-Soy <b>Jonatan Villamil</b>, estudiante de Ingeniería de Sistemas 💻.  
-Me encanta crear soluciones en <b>C#, .NET y SQL Server</b>.  
+Soy <b>Jonatan Villamil</b>, Ingenero de Sistemas 💻.  
+Me encanta crear soluciones.  
 Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡.
 </p>
 
@@ -24,16 +24,6 @@ Busco siempre aprender, automatizar y darle un estilo único a cada proyecto ⚡
 
 ---
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner anime tech" style="max-width:1200px; width:100%; height:auto; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.6);" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/banner.png" alt="Banner anime tech" style="max-width:1200px; width:100%; height:auto; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.6);" />
-</p>
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner anime tech" style="max-width:1200px; width:100%; height:auto; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.6);" />
-</p>
 
 <p align="center">
   <small>Apasionado por la automatización y la construcción de soluciones empresariales. 🚀</small>
