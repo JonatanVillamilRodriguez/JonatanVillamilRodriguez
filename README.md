@@ -44,9 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados"/>
 </div>
 
-<hr/>
 
-## ☀️ Inspiración Anime ☀️
 <p align="center">
   <em>"Aquellos que rompen las reglas son escoria, pero aquellos que abandonan a sus amigos son peor que escoria." - Kakashi Hatake</em>
 </p>
